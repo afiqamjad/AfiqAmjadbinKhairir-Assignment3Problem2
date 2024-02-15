@@ -26,7 +26,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/helloButton"
         app:layout_constraintBottom_toTopOf="@id/editText"
-        android:text=""
+        android:text="@string/textView"
+        android:textColor="@color/black"
         tools:layout_editor_absoluteX="175dp"
         tools:layout_editor_absoluteY="503dp" />
 

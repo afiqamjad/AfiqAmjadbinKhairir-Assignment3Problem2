@@ -2,5 +2,6 @@
     <string name="app_name">AfiqAmjadbinKhairir-Assignment3Problem2</string>
     <string name="hello">Say Hello!</string>
     <string name="editText">EditText</string>
+    <string name="textView">textView</string>
     <string name="helloText">Hello</string>
 </resources>
